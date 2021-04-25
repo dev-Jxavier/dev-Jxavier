@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25" heigth="25">, i'm João Xavier!
 
 <!--
 **JoaoXavier210102/JoaoXavier210102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML5 , CSS3
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 💻 I'm starting in the world of programming 
+- 📚 I’m currently learning <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+- 🎒 I'm an information systems student
+- 🏃‍♂️ In search of a front-end developer career!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoXavier210102)](https://github.com/anuraghazra/github-readme-stats)
