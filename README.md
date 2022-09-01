@@ -1,6 +1,6 @@
 # Hi, I'am Dev Full-Stack Junior!
 
-*I am Brazilian and I am currently studying information systems at Universidade Federal De Santa Maria. I'm fascinated by technology and I hope to develop cool things to solve problems for people all over the world!*
+*I am Brazilian and I am currently studying analysis and systems development. I'm fascinated by technology and I hope to develop cool things to solve problems for people all over the world!*
 
 ### 👨‍💻 Most Used Techs
 
