@@ -1,8 +1,8 @@
-# Hi, I'am Dev Full-Stack Junior!
+# Hi 👋, I'am Dev Full-Stack!
 
-*I am Brazilian and I am currently studying analysis and systems development. I'm fascinated by technology and I hope to develop cool things to solve problems for people all over the world!*
+*As a student of Analysis and Systems Development, I am passionate about using technology to solve problems and create positive change. With experience in popular frameworks and a strong foundation in programming fundamentals, I am equipped to build innovative solutions and contribute to meaningful projects. I have a proven track record of collaborating effectively with teams and continuously expanding my knowledge and skills.*
 
-### 👨‍💻 Most Used Techs
+### Tech Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
